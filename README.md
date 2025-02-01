@@ -9,10 +9,10 @@ Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e
 - Software **[Descript](https://www.descript.com)** para edição do vídeo.
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "ElevenLabs" foi essencial para criar a voz sintetizada que foi utilizada no vídeo. A montagem e edição foram realizadas no software "Descript" para garantir qualidade semi-profissional.
 
 ## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+O vídeo leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
 [LINK PARA O VÍDEO AQUI](https://www.youtube.com/watch?v=YebaOS7l4Og)
 
